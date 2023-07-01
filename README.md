@@ -3,7 +3,7 @@
 <h3 align="center">I'm a self-taught programming enthusiast who is passionate about web development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1670/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me **kownacki_pawel@o2.pl**
 
 <h3 align="left">Languages and Tools:</h3>
